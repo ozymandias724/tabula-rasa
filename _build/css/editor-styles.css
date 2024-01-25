@@ -1,0 +1,4 @@
+/* main theme stylesheet */
+header.wp-block-template-part {
+  border-bottom: 1px solid black;
+}
